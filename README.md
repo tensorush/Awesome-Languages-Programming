@@ -7,9 +7,9 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_student: Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
+### :man_student: Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
 
-## Table of Contents
+### Table of Contents
 
 - [:lizard: Zig](#lizard-zig)
 - [:crab: Rust](#crab-rust)
