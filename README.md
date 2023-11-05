@@ -1,4 +1,4 @@
-## :sunglasses: :speech_balloon: **Awesome Languages Learning**
+## :sunglasses: :speech_balloon: **Awesome Programming Learning**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2018/gifs/2018_60_digitstunnel.gif">
