@@ -1,4 +1,4 @@
-## :sunglasses: :speech_balloon: **Awesome Programming Learning**
+## :sunglasses: :speech_balloon: **Awesome Langs Learning**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2018/gifs/2018_60_digitstunnel.gif">
@@ -7,7 +7,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_student: Collection of the most awesome learning resources on various modern programming languages in the form of videos, courses and blog posts.
+## :man_student: Collection of the most awesome learning resources on modern programming languages in the form of videos, courses and blog posts.
 
 ## Table of Contents
 
