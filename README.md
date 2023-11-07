@@ -21,6 +21,10 @@
 
 - #### :thought_balloon: [Zig News Blog Posts](https://zig.news/)
 
+- #### :speech_balloon: [Ziggit Discussions](https://ziggit.dev/)
+
+- #### :speech_balloon: [Zigquestions Discussions](https://github.com/nektro/zigquestions)
+
 - #### :thought_balloon: [TigerBeetle Blog Posts](https://tigerbeetle.com/blog/)
 
 - #### :tv: [Zig SHOWTIME Videos](https://www.youtube.com/playlist?list=PL5AY2Vv6EsfTfNuUvdkFOxSFY4L1LVN8N)
