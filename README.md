@@ -21,6 +21,8 @@
 
 - #### :speech_balloon: [Ziggit Discussions](https://ziggit.dev/)
 
+- #### :technologist: [Zig Exercism Track](https://exercism.org/tracks/zig)
+
 - #### :thought_balloon: [Zig News Blog Posts](https://zig.news/)
 
 - #### :thought_balloon: [TigerBeetle Blog Posts](https://tigerbeetle.com/blog/)
@@ -66,6 +68,8 @@
 - #### :thought_balloon: [Zig Blog Posts by Michał Ciesielski](https://ciesie.com/tags/zig/)
 
 - #### :thought_balloon: [Zig Blog Posts by Nathan Michaels](https://www.nmichaels.org/zig/)
+
+- #### :thought_balloon: [Learning Zig Blog Posts by Karl Seguin](https://www.openmymind.net/learning_zig/)
 
 - #### :thought_balloon: [Buffer Pool Blog Post by Gavin Ray](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 
