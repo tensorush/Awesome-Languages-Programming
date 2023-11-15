@@ -261,6 +261,8 @@
 
 - #### :thought_balloon: [Functors in Pictures Blog Post by Adit Bhargava](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
+- #### :teacher: [Haskell Course Videos by Nikolai Kudasov](https://www.youtube.com/playlist?list=PLov3NSwpY86cfkfXyVroSZkHemxoAdnrd)
+
 - #### :teacher: [Haskell Beginners Crash Course by Type Classes](https://typeclasses.com/beginner-crash-course)
 
 - #### :teacher: [Haskell via Sokoban Course by Joachim Breitner](https://haskell-via-sokoban.nomeata.de/)
