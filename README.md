@@ -55,6 +55,8 @@
 
 - #### :thought_balloon: [Zig Blog Posts by Garrett Squire](https://gsquire.github.io/static/)
 
+- #### :technologist: [Zig Guides Repo by Aritra Karak](https://github.com/tr1ckydev/zig_guides)
+
 - #### :card_file_box: [Awesome Zig Coding Repos List](https://github.com/stars/tensorush/lists/awesome-zig-coding)
 
 - #### :thought_balloon: [Zig Blog Posts by Andrew Kelley](https://andrewkelley.me/)
