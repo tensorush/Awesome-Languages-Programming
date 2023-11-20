@@ -159,6 +159,10 @@
 
 - #### :headphones: [The Race to Replace C & C++ with Andrew Kelley, Ginger Bill and Josh Huelsman Podcast Episode from Handmade Seattle 2020](https://guide.handmade-seattle.com/c/2020/race-to-replace-c-and-cpp/)
 
+- #### :headphones: [What's Zig Got that C, Rust and Go Don't Have? Podcast Episode with Loris Cro](https://www.youtube.com/watch?v=5_oqWE9otaE)
+
+- #### :thought_balloon: [Simple Example of Calling a C Library from Zig Blog Post by Michael Lynch](https://mtlynch.io/notes/zig-call-c-simple/)
+
 ### :crab: Rust
 
 - #### :technologist: [Rustlings Tutorial](https://github.com/rust-lang/rustlings)
