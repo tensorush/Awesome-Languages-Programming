@@ -163,6 +163,8 @@
 
 - #### :thought_balloon: [Simple Example of Calling a C Library from Zig Blog Post by Michael Lynch](https://mtlynch.io/notes/zig-call-c-simple/)
 
+- #### :thought_balloon: [Zig Blog Posts by Jora Troosh](https://tensorush.github.io/tags/zig/)
+
 ### :crab: Rust
 
 - #### :technologist: [Rustlings Tutorial](https://github.com/rust-lang/rustlings)
