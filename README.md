@@ -43,6 +43,8 @@
 
 - #### :thought_balloon: [Zig Blog Posts by cryptocode](https://cryptocode.github.io/blog/)
 
+- #### :thought_balloon: [Zig Type System Gist by Loric Brevet](https://gist.github.com/lobre/4fbf32961513784dde2a9ef4e6a4a1d9)
+
 - #### :thought_balloon: [Zig Blog Posts by Dave Gauer](http://ratfactor.com/zig/)
 
 - #### :thought_balloon: [Zig Blog Posts by Jakub Konka](http://www.jakubkonka.com/)
