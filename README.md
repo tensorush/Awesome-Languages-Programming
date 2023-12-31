@@ -55,6 +55,10 @@
 
 - #### :globe_with_meridians: [Zig Learn Web Site by Sobeston](https://ziglearn.org/)
 
+- #### :globe_with_meridians: [Zig Guide Web Site by Sobeston](https://zig.guide/)
+
+- #### :globe_with_meridians: [Learn Zig Web Site by jinzhongjia](https://zig.guide/)
+
 - #### :thought_balloon: [Zig Blog Posts by Garrett Squire](https://gsquire.github.io/static/)
 
 - #### :technologist: [Zig Guides Repo by Aritra Karak](https://github.com/tr1ckydev/zig_guides)
