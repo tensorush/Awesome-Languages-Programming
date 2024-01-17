@@ -29,6 +29,8 @@
 
 - #### :tv: [Zig SHOWTIME Videos](https://www.youtube.com/playlist?list=PL5AY2Vv6EsfTfNuUvdkFOxSFY4L1LVN8N)
 
+- #### :tv: [Zig Utah Meetup Videos](https://www.youtube.com/@utahzig)
+
 - #### :speech_balloon: [Zigquestions Discussions](https://github.com/nektro/zigquestions)
 
 - #### :postbox: [Zig Monthly News Letters](https://zigmonthly.org/)
