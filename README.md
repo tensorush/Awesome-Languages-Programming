@@ -101,6 +101,8 @@
 
 - #### :tv: [The Road to Zig 1.0 Talk by Andrew Kelley](https://www.youtube.com/watch?v=Gv2I7qTux7g)
 
+- #### :tv: [Accelerating the Zig Parser Video by Niles Salter](https://www.youtube.com/watch?v=oN8LDpWuPWw)
+
 - #### :thought_balloon: [Writing an OS in Zig Blog Posts by knarkzel](https://knarkzel.srht.site/)
 
 - #### :technologist: [Ziglings Repo by Dave Gauer and Chris Boesch](https://codeberg.org/ziglings)
